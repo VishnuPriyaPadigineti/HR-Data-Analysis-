@@ -40,8 +40,11 @@ The HR Analytics Dashboard provides insights to help management make data-driven
 
 ## 📈 Dashboard
 📊 *Interactive HR Analytics Dashboard showcasing workforce insights and attrition patterns.*
+<a href="https://github.com/VishnuPriyaPadigineti/HR-Data-Analysis-/blob/main/1752465022191.jpg" target="_blank">
+  <img src="https://github.com/VishnuPriyaPadigineti/HR-Data-Analysis-/blob/main/1752465022191.jpg" alt="HR Dashboard" width="800"/>
+</a>
+![1752465022191](https://github.com/user-attachments/assets/783b61c2-72cb-42ca-9ece-aca5880a2f6e)
 
-*(You can add a screenshot or Power BI link here once uploaded.)*
 
 ---
 
