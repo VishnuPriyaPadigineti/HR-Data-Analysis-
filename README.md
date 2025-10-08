@@ -11,6 +11,8 @@ The HR Analytics Dashboard provides insights to help management make data-driven
 
 ## 📂 Dataset Used
 **Dataset:** HR Employee Data  
+<a href="https://github.com/VishnuPriyaPadigineti/HR-Data-Analysis-/blob/main/HR%20Data.xlsx" target="_blank">📂 Click here to view the HR Data Excel file</a>
+
 (Contains employee demographics, job role, department, education, satisfaction rating, and attrition information)
 
 ---
